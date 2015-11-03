@@ -1,0 +1,26 @@
+{
+  "name": "productschemas",
+  "version": "0.0.1",
+  "description": "Mongoose schemas describing products and discount codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonForest/productschemas.git"
+  },
+  "author": "Jonathan Hollingsworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonForest/productschemas/issues"
+  },
+  "homepage": "https://github.com/JonForest/productschemas#readme",
+  "dependencies": {
+    "mongoose": "^4.2.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.1"
+  }
+}
