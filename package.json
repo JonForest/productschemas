@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JonForest/productschemas#readme",
   "dependencies": {
-    "mongoose": "4.1.x"
+    "mongoose": "4.4.12"
   },
   "devDependencies": {
     "mocha": "^2.3.3",
